@@ -1,0 +1,42 @@
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-md-4" *ngFor="let comic of comics">
+      <div class="card mb-4 shadow-sm">
+        <img [src]="comic.thumbnail" class="card-img-top mt-3" alt="Comic Image">
+        <div class="card-body">
+          <h5 class="card-title">{{ comic.title }}</h5>
+          <button class="btn btn-primary" (click)="showDetails(comic)">Ver Detalles</button>
+          <div class="form-check mt-2">
+            <input
+              type="checkbox"
+              class="form-check-input"
+              [checked]="isFavorite(comic.id)"
+              (change)="toggleFavorite(comic.id)"
+            >
+            <label class="form-check-label ms-2">Favorito</label>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button class="btn btn-primary mb-5" (click)="saveFavorites()">Guardar favorito</button>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="comicModal" tabindex="-1" aria-labelledby="comicModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="comicModalLabel">{{ selectedComic?.title }}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img [src]="selectedComic?.thumbnail" class="img-fluid mb-3" alt="Comic Image">
+        <p class="description"><strong>Descripción:</strong> {{ selectedComic?.description || 'No disponible' }}</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>

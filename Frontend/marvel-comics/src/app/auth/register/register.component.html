@@ -1,0 +1,30 @@
+<div class="container-fluid d-flex justify-content-center align-items-center mt-3" style="min-height: 100vh;">
+  <div class="login-card">
+    <div class="text-center">
+      <img src="https://p4.wallpaperbetter.com/wallpaper/701/289/67/comics-marvel-comics-logo-wallpaper-preview.jpg" alt="Logo" class="login-logo" />
+    </div>
+    <h2 class="login-title">Registro</h2>
+    <form (ngSubmit)="onRegister()" [formGroup]="registerForm">
+      <div class="mb-3">
+        <label for="email" class="form-label">Correo Electrónico</label>
+        <input type="email" id="email" formControlName="email" class="form-control login-input" required />
+      </div>
+      <div class="mb-3">
+        <label for="nombreCompleto" class="form-label">Nombre Completo</label>
+        <input type="text" id="nombreCompleto" formControlName="nombreCompleto" class="form-control login-input" required />
+      </div>
+      <div class="mb-3">
+        <label for="numeroIdentificacion" class="form-label">Número de Identificación</label>
+        <input type="text" id="numeroIdentificacion" formControlName="numeroIdentificacion" class="form-control login-input" required />
+      </div>
+      <div>
+        <label for="password" class="form-label">Contraseña</label>
+        <input type="password" id="password" formControlName="password" class="form-control login-input" required />
+      </div>
+      <button type="submit" class="btn btn-login" [disabled]="registerForm.invalid">Registrarse</button>
+    </form>
+    <div class="text-center">
+      <p>¿Ya tienes cuenta? <a routerLink="/login" class="text-link">Iniciar Sesión</a></p>
+    </div>
+  </div>
+</div>

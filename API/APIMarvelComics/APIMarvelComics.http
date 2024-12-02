@@ -1,0 +1,7 @@
+@APIMarvelComics_HostAddress = http:
+localhost:5119
+
+GET {{APIMarvelComics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

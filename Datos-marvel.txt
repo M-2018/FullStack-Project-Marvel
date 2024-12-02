@@ -1,0 +1,19 @@
+https://developer.marvel.com/account#
+
+Hi 0PSDzj942715661!
+
+Here's your personal Marvel Comics API information:
+
+Your public key
+3c30d48604f5535cfa4db14c2e1fe615
+Your private key
+3e93fa3d45d9b06ebdc38ea7dc182586ad69e138
+
+Request URL
+https://gateway.marvel.com:443/v1/public/comics?apikey=3c30d48604f5535cfa4db14c2e1fe615
+
+md5
+ac024cf84f42bb72ed78ad93903e778e
+
+Ruta Hasheada
+https://gateway.marvel.com:443/v1/public/comics?ts=1&apikey=3c30d48604f5535cfa4db14c2e1fe615&hash=ac024cf84f42bb72ed78ad93903e778e

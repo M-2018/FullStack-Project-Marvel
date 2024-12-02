@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aE4BeAybnEr2esieAJKUObuhGr2w41G1CJpHPvuAjcs=",
+  "Source": "APIMarvelComics",
+  "BasePath": "_content/APIMarvelComics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

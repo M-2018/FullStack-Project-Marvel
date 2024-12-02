@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\apimarvelcomics.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:apimarvelcomics.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\migrations\\20241202035531_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:migrations\\20241202035531_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\migrations\\20241202035531_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:migrations\\20241202035531_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\controllers\\favoritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:controllers\\favoritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica desarrollador web-tecnofactory\\api\\apimarvelcomics\\dtos\\favoritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EF119-EB93-4B17-A0EC-877590F2E1AF}|APIMarvelComics.csproj|solutionrelative:dtos\\favoritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAlwGcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:36:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T13:36:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Models\\Favorito.cs",
+              "RelativeDocumentMoniker": "Models\\Favorito.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Models\\Favorito.cs",
+              "RelativeToolTip": "Models\\Favorito.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:36:07.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAlwI0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:35:42.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T13:35:39.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:35:36.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIMarvelComics.http",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\APIMarvelComics.http",
+              "RelativeDocumentMoniker": "APIMarvelComics.http",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\APIMarvelComics.http",
+              "RelativeToolTip": "APIMarvelComics.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-02T13:35:32.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241202035531_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Migrations\\20241202035531_initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202035531_initial.Designer.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Migrations\\20241202035531_initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241202035531_initial.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:35:30.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241202035531_initial.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Migrations\\20241202035531_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202035531_initial.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Migrations\\20241202035531_initial.cs",
+              "RelativeToolTip": "Migrations\\20241202035531_initial.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAlwDYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:35:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavoritoDTO.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\DTOs\\FavoritoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\FavoritoDTO.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\DTOs\\FavoritoDTO.cs",
+              "RelativeToolTip": "DTOs\\FavoritoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:37:05.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoritosController.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Controllers\\FavoritosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoritosController.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba T\u00E9cnica Desarrollador Web-tecnofactory\\API\\APIMarvelComics\\Controllers\\FavoritosController.cs",
+              "RelativeToolTip": "Controllers\\FavoritosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:37:03.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

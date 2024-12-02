@@ -1,0 +1,210 @@
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  
+  .col-md-4 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    display: flex;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: #333;
+    border: 2px solid #ff9800;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+  }
+  
+  
+
+  .card-img-top {
+    width: 100%;
+    height: 250px;
+    object-fit: contain; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow: hidden; 
+  }
+  
+  
+  .card-body {
+    flex-grow: 1;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+  }
+  
+  .card-title {
+    margin-bottom: 0.75rem;
+    color: #ff9800;
+    text-align: center;
+    font-weight: bold;
+    min-height: 50px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .btn {
+    background-color: #ff9800;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 10px; 
+  }
+  
+  .btn:hover {
+    background-color: #e68900;
+  }
+  
+  .form-check {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px; 
+  }
+
+
+.comics-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .comic-card {
+    background-color: #333;
+    border: 2px solid #ff9800;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin: 10px;
+    width: 220px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .comic-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+  }
+  
+  .comic-title {
+    font-size: 18px;
+    color: #ff9800;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .comic-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .favorite-checkbox {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #ff9800;
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .favorite-checkbox.checked {
+    background-color: #e68900;
+  }
+  
+  .comic-modal-content {
+    background-color: #1d1d1d;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .comic-modal-title {
+    font-size: 24px;
+    color: #ff9800;
+    margin-bottom: 20px;
+  }
+  
+  .comic-modal-description {
+    margin-top: 15px;
+    font-size: 16px;
+    color: #ccc;
+  }
+  
+  .comic-modal-image {
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+  
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #1d1d1d;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .btn {
+    background-color: #ff9800;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .btn:hover {
+    background-color: #e68900;
+  }
+
+  .description{
+    color: black;
+  }
+
+  
